@@ -1,57 +1,82 @@
 # Samuel Moreira da Silva 👋
-**Cloud & FinOps Engineer · DevOps · SRE · Automação · Multi-Cloud Governance**  
-📍 Ouro Preto – MG, Brasil · 🌎 Aberto a remoto/híbrido/internacional
 
-Transformo **Cloud em estratégia**, **custos em inteligência** e **automação em escala** — com foco em **GCP, Azure, Kubernetes, FinOps e governança**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Samuel+Moreira+da+Silva;Cloud+%26+FinOps+Engineer;DevOps+%7C+SRE+%7C+Multi-Cloud+Governance" />
 
-[🌐 Meu site/portfólio](https://samuelsilvaop.github.io/perfil/) ·
-[📄 Currículo (PDF)](https://samuelsilvaop.github.io/perfil/cv-samuel-silva.pdf)
+## 🧰 Stack & Expertise
 
----
-
-## 🔥 O que eu faço
-- ☁️ **Cloud & FinOps (GCP/Azure):** visibilidade de custos, modelagem, otimização e governança
-- 📊 **Data + Billing:** BigQuery/SQL para auditoria, rateio e análises executivas
-- ⚙️ **DevOps/SRE:** automação, CI/CD, containers, Kubernetes e padronização de ambientes
-- 🤖 **Automação corporativa:** integrações com APIs (Slack/Google/Azure), fluxos e bots
+![GCP](https://img.shields.io/badge/Cloud-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Container-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FinOps](https://img.shields.io/badge/FinOps-Cost_Optimization-0A0A0A?style=for-the-badge)
+![Python](https://img.shields.io/badge/Automation-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-## 🧩 Highlights
-- Construção de soluções e automações com foco em **reduzir trabalho manual** e aumentar **previsibilidade**
-- Estruturação de **dashboards executivos** e métricas para decisão (FinOps/Cloud)
-- Pipelines e deploy com **CI/CD**, com código organizado e reprodutível
-- Mentalidade “produto”: clareza, documentação, consistência e experiência do usuário (inclusive interna)
+## About Me
+
+Cloud & FinOps Engineer focused on transforming infrastructure into strategic assets.
+
+I work at the intersection of:
+
+- Cloud Architecture
+- Cost Governance (FinOps)
+- Automation
+- DevOps & Reliability
+- Data-driven decision making
+
+I help organizations gain visibility, predictability, and control over their cloud environments while scaling efficiently.
+
+📍 Based in Brazil · 🌎 Open to remote and international opportunities  
+
+[🌐 Portfolio](https://samuelsilvaop.github.io/perfil/)  
+[📄 Resume (PDF)](https://samuelsilvaop.github.io/perfil/cv-samuel-silva.pdf)
 
 ---
 
-## 🧰 Stack
-**Cloud:** GCP · Azure · Cloud Run · GKE/Kubernetes · BigQuery  
-**DevOps:** Docker · CI/CD · GitHub Actions · Jenkins  
-**Data:** SQL · Modelagem · Dashboards  
-**Backend/Automação:** Python · APIs · Integrações
+## What I Do
+
+### ☁️ Cloud & FinOps
+- Cost allocation and governance in GCP & Azure
+- Billing analysis with BigQuery
+- Cost modeling and optimization strategies
+- Production vs staging separation
+
+### ⚙️ DevOps & SRE
+- CI/CD pipelines
+- Kubernetes environments
+- Infrastructure automation
+- Process standardization
+
+### 📊 Data & Insights
+- SQL-driven billing intelligence
+- Executive dashboards
+- Strategic reporting
+- Usage vs invoice analysis
+
+### 🤖 Automation
+- API integrations (Slack, Google, Azure)
+- Workflow automation
+- Operational efficiency improvements
 
 ---
 
-## 📌 Projetos em destaque
-- **Perfil/Portfólio (GitHub Pages + Vite/React/TS)**  
-  Repo: https://github.com/samuelsilvaop/perfil · Live: https://samuelsilvaop.github.io/perfil/
+## Featured Projects
 
-- **Automação & Bots (Slack / FastAPI / Cloud Run)**  
+- **Professional Portfolio (Vite + React + GitHub Pages)**  
+  Repo: https://github.com/samuelsilvaop/perfil  
+  Live: https://samuelsilvaop.github.io/perfil/
 
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuelsilvaop&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelsilvaop&layout=compact&theme=transparent&hide_border=true)
+- **Automation & Slack Bots (FastAPI + Cloud Run)**  
 
 ---
 
-## 📬 Contato
-- LinkedIn: [samuel-silva](https://www.linkedin.com/in/samuel-silva)
-- Email: samuelsilvaop@gmail.com
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/samuel-silva  
+- Email: samuelsilvaop@gmail.com  
 
 ---
 
-<sub>🍺 Nota de rodapé: Também sou Sommelier de Cerveja — equilíbrio e precisão dentro e fora da cloud.</sub>
+<sub>🍺 Fun fact: I’m also a certified Beer Sommelier — because precision and balance matter everywhere.</sub>
