@@ -1,16 +1,65 @@
-## Hi there 👋
-
 <!--
-**samuelsilvaop/samuelsilvaop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Perfil GitHub - Samuel Moreira da Silva
+Dica: personalize os links e substitua os placeholders.
 -->
+
+# Samuel Moreira da Silva 👋
+**Cloud & FinOps Engineer · DevOps · SRE · Automação · Multi-Cloud Governance**  
+📍 Ouro Preto – MG, Brasil · 🌎 Aberto a remoto/híbrido/internacional
+
+Transformo **Cloud em estratégia**, **custos em inteligência** e **automação em escala** — com foco em **GCP, Azure, Kubernetes, FinOps e governança**.
+
+[🌐 Meu site/portfólio](https://samuelsilvaop.github.io/perfil/) ·
+[📄 Currículo (PDF)](https://samuelsilvaop.github.io/perfil/cv-samuel-moreira-2026.pdf)
+
+---
+
+## 🔥 O que eu faço
+- ☁️ **Cloud & FinOps (GCP/Azure):** visibilidade de custos, modelagem, otimização e governança
+- 📊 **Data + Billing:** BigQuery/SQL para auditoria, rateio e análises executivas
+- ⚙️ **DevOps/SRE:** automação, CI/CD, containers, Kubernetes e padronização de ambientes
+- 🤖 **Automação corporativa:** integrações com APIs (Slack/Google/Azure), fluxos e bots
+
+---
+
+## 🧩 Highlights
+- Construção de soluções e automações com foco em **reduzir trabalho manual** e aumentar **previsibilidade**
+- Estruturação de **dashboards executivos** e métricas para decisão (FinOps/Cloud)
+- Pipelines e deploy com **CI/CD**, com código organizado e reprodutível
+- Mentalidade “produto”: clareza, documentação, consistência e experiência do usuário (inclusive interna)
+
+---
+
+## 🧰 Stack
+**Cloud:** GCP · Azure · Cloud Run · GKE/Kubernetes · BigQuery  
+**DevOps:** Docker · CI/CD · GitHub Actions · Jenkins  
+**Data:** SQL · Modelagem · Dashboards  
+**Backend/Automação:** Python · APIs · Integrações
+
+---
+
+## 📌 Projetos em destaque
+- **Perfil/Portfólio (GitHub Pages + Vite/React/TS)**  
+  Repo: https://github.com/samuelsilvaop/perfil · Live: https://samuelsilvaop.github.io/perfil/
+
+- **Automação & Bots (Slack / FastAPI / Cloud Run)**  
+  (adicione aqui o link do repositório público quando estiver pronto)
+
+> Dica: fixe (pin) 3–6 repositórios no seu perfil para guiar recrutadores.
+
+---
+
+## 📈 GitHub Stats
+<!-- Você pode remover se quiser algo mais clean -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelsilvaop&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsilvaop&layout=compact)
+
+---
+
+## 📬 Contato
+- LinkedIn: (cole seu link)
+- Email: (cole seu email profissional)
+
+---
+
+<sub>🍺 Nota de rodapé: sim, também sou Sommelier de Cerveja — equilíbrio e precisão dentro e fora da cloud.</sub>
