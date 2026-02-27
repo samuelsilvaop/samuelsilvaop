@@ -42,8 +42,9 @@ Transformo **Cloud em estratégia**, **custos em inteligência** e **automação
 ---
 
 ## 📈 GitHub Stats
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsilvaop&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsilvaop&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuelsilvaop&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelsilvaop&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
