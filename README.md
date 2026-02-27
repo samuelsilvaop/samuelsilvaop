@@ -49,7 +49,7 @@ Transformo **Cloud em estratégia**, **custos em inteligência** e **automação
 ---
 
 ## 📬 Contato
-- LinkedIn: [(samuel-silva)](https://www.linkedin.com/in/samuel-silva)
+- LinkedIn: [samuel-silva](https://www.linkedin.com/in/samuel-silva)
 - Email: samuelsilvaop@gmail.com
 
 ---
