@@ -1,8 +1,3 @@
-<!--
-Perfil GitHub - Samuel Moreira da Silva
-Dica: personalize os links e substitua os placeholders.
--->
-
 # Samuel Moreira da Silva 👋
 **Cloud & FinOps Engineer · DevOps · SRE · Automação · Multi-Cloud Governance**  
 📍 Ouro Preto – MG, Brasil · 🌎 Aberto a remoto/híbrido/internacional
@@ -43,16 +38,12 @@ Transformo **Cloud em estratégia**, **custos em inteligência** e **automação
   Repo: https://github.com/samuelsilvaop/perfil · Live: https://samuelsilvaop.github.io/perfil/
 
 - **Automação & Bots (Slack / FastAPI / Cloud Run)**  
-  (adicione aqui o link do repositório público quando estiver pronto)
-
-> Dica: fixe (pin) 3–6 repositórios no seu perfil para guiar recrutadores.
 
 ---
 
 ## 📈 GitHub Stats
-<!-- Você pode remover se quiser algo mais clean -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelsilvaop&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsilvaop&layout=compact)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsilvaop&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsilvaop&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800)
 
 ---
 
