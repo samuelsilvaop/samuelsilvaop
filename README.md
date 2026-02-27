@@ -10,7 +10,7 @@ Dica: personalize os links e substitua os placeholders.
 Transformo **Cloud em estratégia**, **custos em inteligência** e **automação em escala** — com foco em **GCP, Azure, Kubernetes, FinOps e governança**.
 
 [🌐 Meu site/portfólio](https://samuelsilvaop.github.io/perfil/) ·
-[📄 Currículo (PDF)](https://samuelsilvaop.github.io/perfil/cv-samuel-moreira-2026.pdf)
+[📄 Currículo (PDF)](https://samuelsilvaop.github.io/perfil/cv-samuel-silva.pdf)
 
 ---
 
@@ -57,9 +57,9 @@ Transformo **Cloud em estratégia**, **custos em inteligência** e **automação
 ---
 
 ## 📬 Contato
-- LinkedIn: (cole seu link)
-- Email: (cole seu email profissional)
+- LinkedIn: [(samuel-silva)](https://www.linkedin.com/in/samuel-silva)
+- Email: samuelsilvaop@gmail.com
 
 ---
 
-<sub>🍺 Nota de rodapé: sim, também sou Sommelier de Cerveja — equilíbrio e precisão dentro e fora da cloud.</sub>
+<sub>🍺 Nota de rodapé: Também sou Sommelier de Cerveja — equilíbrio e precisão dentro e fora da cloud.</sub>
